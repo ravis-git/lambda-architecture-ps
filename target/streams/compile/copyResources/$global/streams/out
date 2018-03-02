@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/ravipalakodeti/tech/projects/fast-data/lambda-architecture-ps/src/main/resources/application.conf,/Users/ravipalakodeti/tech/projects/fast-data/lambda-architecture-ps/target/scala-2.11/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/ravipalakodeti/tech/projects/fast-data/lambda-architecture-ps/src/main/resources/products.csv,/Users/ravipalakodeti/tech/projects/fast-data/lambda-architecture-ps/target/scala-2.11/classes/products.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/ravipalakodeti/tech/projects/fast-data/lambda-architecture-ps/src/main/resources/referrers.csv,/Users/ravipalakodeti/tech/projects/fast-data/lambda-architecture-ps/target/scala-2.11/classes/referrers.csv)[0m
